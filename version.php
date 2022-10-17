@@ -27,6 +27,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_send_grade';
 $plugin->release = '0.1.0';
-$plugin->version = 2022100100;
+$plugin->version = 20221001000;
 $plugin->requires = 2021051700;
 $plugin->maturity = MATURITY_STABLE;

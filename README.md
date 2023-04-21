@@ -1,8 +1,7 @@
 # Moodle Send Grade #
 
-TODO Describe the plugin shortly here.
+A plugin that sends course averages to an external api endpoint
 
-TODO Provide more detailed description here.
 
 ## Installing via uploaded ZIP file ##
 
@@ -29,7 +28,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2022 Patrick <dev@ptdf.gov.ng>
+2022 Patrick <ktarila@gmail.com>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
